@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN echo $(date) > /usr/share/nginx/html/index.html
+RUN echo $(date -u) > /usr/share/nginx/html/index.html
