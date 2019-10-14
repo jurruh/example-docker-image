@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN echo hallo > /usr/share/nginx/html/index.html
+RUN echo doei > /usr/share/nginx/html/index.html
