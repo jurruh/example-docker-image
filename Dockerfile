@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN hoi > /usr/share/nginx/html/index.html
+RUN echo hoi > /usr/share/nginx/html/index.html
