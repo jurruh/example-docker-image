@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN echo nogmooier5 > /usr/share/nginx/html/index.html
+RUN echo nogmooier123 > /usr/share/nginx/html/index.html
