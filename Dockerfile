@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN echo nice > /usr/share/nginx/html/index.html
+RUN echo nice123 > /usr/share/nginx/html/index.html
